@@ -1,0 +1,19 @@
+# Real Project API Dependencies
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+together
+openai
+
+# UI
+streamlit
+requests
+
+# TTS and Phonetics for Vocabulary Quiz
+gTTS
+eng-to-ipa
+
+# RAG / Textbook system
+PyMuPDF
+chromadb
