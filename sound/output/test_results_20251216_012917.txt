@@ -1,0 +1,16 @@
+TTS Voice Test Results
+============================================================
+Date: 2025-12-16T01:29:17.968421
+Test text: Hello, this is a test of the voice synthesis system. How does this voice sound to you?
+Model: c:\Users\erdem\Desktop\tts\en_US-libritts-high.onnx
+
+SUCCESSFUL:
+----------------------------------------
+Speaker 300 | male    | Alex                 | 194.5 KB
+Speaker 190 | male    | Christopher          | 200.5 KB
+Speaker  70 | male    | Daniel               | 193.0 KB
+Speaker 212 | male    | John                 | 232.5 KB
+Speaker 170 | female  | Stephanie            | 262.0 KB
+Speaker  10 | female  | Sarah                | 200.0 KB
+Speaker 118 | female  | Olivia               | 226.0 KB
+Speaker 115 | female  | Emma                 | 235.5 KB
